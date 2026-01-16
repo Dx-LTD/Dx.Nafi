@@ -1,7 +1,8 @@
 [
     {
         "device_id": "5d4365a52e1d0ba12c7dc795812be0a52a3e080cac94b7230ee46744c34ab9ce"
-        "pay: "199",
+        "pay: "350",
+        "activate"
         "expirydate": "21-09-2027",
         "Allowoffline": true
     },
